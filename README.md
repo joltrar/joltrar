@@ -45,5 +45,5 @@
 
 ### 📬 ¿Contacto?
 
-Si quieres colaborar, proponer ideas o necesitas ayuda con proyectos técnicos, ¡escríbeme por LinkedIn o crea un issue!
+Si quieres colaborar, proponer ideas o necesitas ayuda con proyectos técnicos, ¡escríbeme por LinkedIn!
 
