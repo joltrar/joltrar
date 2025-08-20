@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Luis Trabazo
+# 👋 ¡Hola! Soy Joltrar
 
 🎓 **Ingeniero Civil Electrónico** con mención en Control Automático — Universidad Técnica Federico Santa María (Valparaíso, Chile).  
 💻 Apasionado por el desarrollo de software, automatización industrial y ciencia de datos.  
