@@ -28,9 +28,9 @@
 
 | Proyecto         | Descripción                                                   | Enlace |
 |------------------|----------------------------------------------------------------|--------|
-| **Visual MinGW** | IDE open source para MinGW, contribución en UI e integración  | [🔗 Sourceforge](https://visual-mingw.sourceforge.net/)) |
+| **Visual MinGW** | IDE open source para MinGW, contribución en UI e integración  | [🔗 Sourceforge](https://visual-mingw.sourceforge.net/) |
 | **SharpConstruct** | Herramienta de modelado 3D. Mejoras en renderizado y estabilidad | [🔗 SharpConstruct](https://sourceforge.net/projects/sharp3d/) |
-| **FreeDCS**      | Sistema de control de datos de sensores en C++                | [🔗 FreeDCS](https://freedcs.sourceforge.net/))|
+| **FreeDCS**      | Sistema de control de datos de sensores en C++                | [🔗 FreeDCS](https://freedcs.sourceforge.net/)|
 | **Blog Saldeveloper** | Artículos y trucos de programación web y software en general | [🔗 Blog](https://saldeveloper.blogspot.com/) |
 
 ---
